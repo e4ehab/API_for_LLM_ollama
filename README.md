@@ -1,10 +1,10 @@
 # debendenceies
 ----------------
-fastapi -> for building api
-uvicorn -> for runnig the fastapi app
-ollama -> for interfacing with ollamato use a local llm
-python-dotenv -> for loading an env file
-requests -> for sending request to test the API
+.fastapi -> for building api.
+.uvicorn -> for runnig the fastapi app.
+.ollama -> for interfacing with ollamato use a local llm.
+.python-dotenv -> for loading an env file.
+.requests -> for sending request to test the API.
 ---------------------------------------------------------------------------------------------------------------
 # virtual env creation 
 ----------------------
